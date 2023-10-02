@@ -6,4 +6,5 @@ The models and test systems as well as the python scripts to automate the simula
 - Nordic system: github.com/FraunhIEE-UniKassel-PowSysStability/powsysmodlib/tree/main/src/powsysmodlib/systems/nordic_system_with_distributed_resources
 
 Please cite:
+
 *Open-Source EMT Model of Grid-Forming Converter with Industrial Grade SelfSync and SelfLim Control* by Simon Eberlein, Peter Unruh and Tobias Erckrath, IEEE ISGT 2023, Grenoble.
